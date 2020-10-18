@@ -1,2 +1,2 @@
 # read-handwriting
- This model has been trained on the MNIST dataset and aims to be able to classify digits.
+A deep learning implementation of a classification model that identifies digits in the MNIST dataset. A convolutional neural network was used to achieve an accuracy of 98.5%. Relevant packages: tensorflow, tensorflow_datasets, matplotlib.
